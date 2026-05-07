@@ -23,3 +23,8 @@
     phpinfo();
     ?>         #내용 입력후 저장
 4) 브라우저에서 http://서버ip/test.php      #확인해보기
+
+## MariaDB 설치
+1. sudo apt install mariadb-server          # Maria DB 설치
+2. sudo systemctl status mariadb        # 실행 상태 확인
+3. sudo mysql       # MariaDB 접속
