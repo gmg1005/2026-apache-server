@@ -2,6 +2,7 @@
 - Ubuntu
 - Apache
 - PHP
+- MariaDB
 
 ## 우분투 서버 구축
 1. sudo apt update      # 패키지 업데이트
