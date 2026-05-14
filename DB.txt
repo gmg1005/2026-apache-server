@@ -1,5 +1,5 @@
 # DB 목록
-- login
+- secure, nosecure
     # 테이블 목록
         users
 
